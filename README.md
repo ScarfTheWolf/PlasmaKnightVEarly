@@ -1,0 +1,2 @@
+# PlasmaKnightVEarly
+Для курсової роботи
